@@ -1,0 +1,50 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 18,
+    "emojiStyle": "none",
+    "iconColor": null,
+    "recentlyUsedIcons": [
+      "TiBook2",
+      "TiBooks",
+      "LiNewspaper",
+      "SiPagekit",
+      "LiImage"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": true,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
+  },
+  "Functions": "TiBooks",
+  "Conventions": "TiBooks",
+  "Console": "TiBooks",
+  "Classes": "TiBooks",
+  "FastAPI": "SiFastapi",
+  "Images": "LiImage",
+  "Classes/Classes Manifest.md": "TiBook2",
+  "Conventions/Conventions Manifest.md": "TiBook2",
+  "Console/Console Manifest.md": "TiBook2",
+  "FastAPI/FastAPI Manifest.md": "TiBook2",
+  "Functions/Functions Manifest.md": "TiBook2",
+  "General Collection.md": "TiBook2",
+  "Console/Console flags.md": "LiNewspaper",
+  "Basics": "TiBooks",
+  "Basics/Basics Manifest.md": "TiBook2",
+  "Basics/Modules.md": "LiNewspaper",
+  "Basics/Python interpreter.md": "LiNewspaper",
+  "Basics/Types.md": {
+    "iconName": "LiNewspaper",
+    "inheritanceIcon": "LiNewspaper"
+  }
+}

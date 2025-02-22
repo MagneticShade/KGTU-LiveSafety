@@ -1,0 +1,218 @@
+{
+  "main": {
+    "id": "0971cf993192cd0e",
+    "type": "split",
+    "children": [
+      {
+        "id": "8a0f7762eb24d8de",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "399ece4bc58ed920",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "лекции по математике (институт)/Лекция 3.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Лекция 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "8fc96ea0fc23352d",
+    "type": "split",
+    "children": [
+      {
+        "id": "78380aef5d77f8ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "540cde35b4acc7c6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "db0bf5b164667231",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9585732fc24ea14d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3b8d617cefaa2723",
+    "type": "split",
+    "children": [
+      {
+        "id": "157e13ff9b61012a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0ed2277dc16d7ce7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "лекции по математике (институт)/Лекция 3.pdf",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Лекция 3"
+            }
+          },
+          {
+            "id": "9ba0016dcd8d26ea",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "лекции по математике (институт)/Лекция 3.pdf",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Лекция 3"
+            }
+          },
+          {
+            "id": "f887a9c673ed9811",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "7daf6534609694d6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "лекции по математике (институт)/Лекция 3.pdf",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Лекция 3"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "399ece4bc58ed920",
+  "lastOpenFiles": [
+    "лекции по математике (институт)/Лекция 2 1.pdf",
+    "лекции по математике (институт)/Лекция 3.pdf",
+    "лекции по математике (институт)/Лекция 1 (1).pdf",
+    "лекции по математике (институт)/Лекция 2.pdf",
+    "лекции по математике (институт)/photo_5242385997612834670_y.jpg",
+    "лекции по математике (институт)/Лекция 3 (1).pdf",
+    "лекции по математике (институт)/Линейная алгебра (1).pdf",
+    "Производная функции.md",
+    "лекции по математике (институт)/photo_5242385997612834679_y.jpg",
+    "лекции по математике (институт)/photo_5242385997612834677_y.jpg",
+    "лекции по математике (институт)/photo_5242385997612834678_y.jpg",
+    "лекции по математике (институт)/photo_5242385997612834676_y.jpg",
+    "лекции по математике (институт)/photo_5242385997612834675_y.jpg",
+    "лекции по математике (институт)/photo_5242385997612834673_y.jpg",
+    "лекции по математике (институт)/photo_5242385997612834672_y.jpg",
+    "лекции по математике (институт)/photo_5242385997612834671_y.jpg",
+    "лекции по математике (институт)/vinitskaya_kutuzova_matematika_ch.1_ump_zo_bakal_2020 (1).pdf",
+    "лекции по математике (институт)/кр звочное отделение.pdf",
+    "лекции по математике (институт)",
+    "Тригонометрия.md",
+    "Теорема Косинусов и Синусов.md",
+    "Прямоугольные треугольники.md",
+    "Квадратное уравнение.md",
+    "Иррациональные неравенства.md",
+    "Интеграл и Первообразная.md",
+    "Геометрическая прогрессия.md",
+    "Треугольник и окружность.md",
+    "Перпендикулярность в плоскости.md",
+    "Pasted image 20240804182027.png",
+    "Системы уравнений.md",
+    "Четырёхугольник и окружность.md",
+    "Логарифмы.md",
+    "Корни.md",
+    "Иррациональное уравнение.md",
+    "Взаимно обратные числа.md",
+    "Арифметическая прогрессия.md",
+    "Биссектрисы, медианы и высоты в треугольнике.md",
+    "Параллельные прямые.md",
+    "Свойства Треугольников.md",
+    "Pasted image 20240804180930.png~",
+    "Pasted image 20240804180419.png~",
+    "Параллельные прямые на плоскости.md",
+    "Расстояние между двумя точками на плоскости.md",
+    "Средняя линия трапеции.md",
+    "Параллелограмм.md",
+    "Выпуклый многоугольник.md"
+  ]
+}
