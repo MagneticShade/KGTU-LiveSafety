@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -190,6 +189,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -198,7 +198,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db0bf5b164667231",
+  "active": "899a56cab8217cb3",
   "lastOpenFiles": [
     "Четвёртая пара.md",
     "Пред. Экзамен.md",
